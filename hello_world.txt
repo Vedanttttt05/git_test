@@ -1,0 +1,3 @@
+i am vedant patil
+currently learning to code using odin project 
+this is git basics what i am learning at the very moment
